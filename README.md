@@ -6,7 +6,7 @@ for RavenStack, a fictional SaaS startup. Built using SQL, Python, and Power BI.
 ## Tools Used
 - **PostgreSQL** - data storage and querying
 - **SQL** - data quality checks and business analysis
-- **Python** (pandas, matplotlib, seaborn) — data visualisation
+- **Python** (pandas, matplotlib, seaborn) - data visualisation
 - **Power BI** - interactive dashboard
 
 ## Dataset
